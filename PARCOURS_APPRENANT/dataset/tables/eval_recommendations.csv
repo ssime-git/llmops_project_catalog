@@ -1,0 +1,7 @@
+eval_id,learner_id,expected_first_training,expected_path_duration_hours,expected_cert_ready,notes
+EVAL-R1,LRN-001,TR-001 ou TR-002,88-112,CERT-003,"DE path : SQL avancé + Spark + Airflow. Python déjà OK"
+EVAL-R2,LRN-005,TR-014 ou TR-001,96-128,CERT-002,"Débutante : stats + Python + ML + feature eng"
+EVAL-R3,LRN-003,TR-005,56-88,CERT-004,"DS Junior avec ML : MLOps logique, docker et CI/CD manquent"
+EVAL-R4,LRN-007,TR-010,56-88,CERT-005,"ML Engineer vers LLM : bases LLM puis LLMOps"
+EVAL-R5,LRN-004,TR-005,56-72,CERT-004,"DevOps vers MLOps : docker déjà maîtrisé, ajouter MLflow + monitoring"
+EVAL-R6,LRN-012,TR-006,32-40,CERT-004,"Senior DS presque prêt CERT-004, juste MLOps avancé manque"

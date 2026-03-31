@@ -1,0 +1,9 @@
+cert_id,name,issuer,domain,required_skills,recommended_trainings,validity_years,market_recognition,level
+CERT-001,Certified Data Practitioner,SkillPath,data_basics,"sql_basics,python_basics,statistics_basics",TR-001|TR-002|TR-014,3,regional,beginner
+CERT-002,Professional Data Scientist,SkillPath,data_science,"ml_concepts,sklearn,python_basics,statistics_basics,feature_engineering,model_evaluation",TR-003|TR-014|TR-015,3,national,intermediate
+CERT-003,Certified Data Engineer,SkillPath,data_engineering,"python_basics,sql_advanced,spark,airflow,docker",TR-001|TR-002|TR-012|TR-018|TR-019,3,national,intermediate
+CERT-004,MLOps Professional,SkillPath,mlops,"docker,ci_cd_basics,mlflow,model_registry,monitoring_ml",TR-005|TR-006|TR-019,2,national,advanced
+CERT-005,LLM Engineer Certified,SkillPath,llm,"llm_concepts,rag_basics,prompt_engineering,mlflow_llm,ragas",TR-010|TR-011,2,national,advanced
+CERT-006,Data Architect Associate,SkillPath,architecture,"architecture_data,aws_core,sql_advanced,spark,design_patterns",TR-007|TR-012|TR-020,3,international,advanced
+CERT-007,Cloud Data Specialist GCP,Google,cloud_gcp,"gcp_core,bigquery,cloud_run,vertex_ai",TR-008,2,international,intermediate
+CERT-008,Kubernetes Data Applications,CNCF,cloud,"kubernetes,helm,persistent_volumes,resource_management",TR-009,2,international,advanced

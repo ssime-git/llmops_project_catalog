@@ -1,0 +1,21 @@
+training_id,prerequisite_skill,required_level,is_mandatory,note
+TR-003,python_basics,intermediate,true,"Utilisation de numpy/pandas requise"
+TR-003,statistics_basics,beginner,false,"Recommandé pour comprendre les métriques"
+TR-004,ml_concepts,intermediate,true,"Doit connaître gradient descent"
+TR-004,pytorch,beginner,false,"Ou TensorFlow équivalent"
+TR-005,docker,intermediate,true,"Docker Compose obligatoire"
+TR-005,python_basics,intermediate,true,"Scripting Python pour les pipelines"
+TR-006,mlflow,intermediate,true,"TR-005 ou expérience MLflow réelle"
+TR-006,docker,advanced,true,"Kubernetes basics apprécié"
+TR-007,sql_basics,beginner,false,"Pour comprendre RDS"
+TR-009,docker,intermediate,true,"Compréhension des containers"
+TR-010,python_basics,intermediate,true,"Pour les notebooks d'exercice"
+TR-010,sql_basics,beginner,false,"Pour les exemples RAG sur bases"
+TR-011,llm_concepts,intermediate,true,"TR-010 ou expérience LLM"
+TR-011,docker,intermediate,true,"Déploiement dans le cours"
+TR-012,python_basics,intermediate,true,
+TR-012,sql_advanced,intermediate,true,"Comprendre les optimisations Spark"
+TR-015,ml_concepts,beginner,true,
+TR-016,python_basics,intermediate,true,
+TR-018,python_basics,intermediate,true,"DAGs en Python"
+TR-020,architecture_data,intermediate,true,"Prérequis strict — cours intégrateur"

@@ -1,0 +1,21 @@
+training_id,title,domain,level,duration_hours,format,skills_acquired,max_learners,price_eur,active
+TR-001,Python pour la Data,data_engineering,beginner,24,blended,"python_basics,pandas,numpy,jupyter",20,890,true
+TR-002,SQL Avancé et Optimisation,data_engineering,intermediate,16,online,"sql_advanced,query_optimization,indexes,explain_plan",30,590,true
+TR-003,Introduction au Machine Learning,ml,beginner,32,blended,"ml_concepts,sklearn,model_evaluation,cross_validation",20,1290,true
+TR-004,Deep Learning avec PyTorch,ml,advanced,40,blended,"pytorch,cnn,rnn,transfer_learning,fine_tuning",15,1890,true
+TR-005,MLOps Fondamentaux,mlops,intermediate,24,online,"mlflow,model_registry,ci_cd_ml,docker_ml",25,990,true
+TR-006,MLOps Avancé — Production,mlops,advanced,32,blended,"kubernetes,kubeflow,monitoring_ml,drift_detection,ab_testing",15,1490,true
+TR-007,Architecture Cloud AWS,cloud,intermediate,24,online,"aws_core,s3,ec2,rds,lambda,iam",25,890,true
+TR-008,Architecture Cloud GCP,cloud,intermediate,24,online,"gcp_core,bigquery,cloud_run,vertex_ai,gcs",25,890,true
+TR-009,Kubernetes pour Data Scientists,cloud,advanced,16,online,"kubernetes,helm,persistent_volumes,resource_management",20,790,true
+TR-010,LLM et RAG Fondamentaux,llm,intermediate,24,blended,"llm_concepts,prompt_engineering,rag_basics,langchain",20,1190,true
+TR-011,LLMOps — Déploiement et Monitoring,llm,advanced,32,blended,"mlflow_llm,ragas,drift_llm,a_b_llm,prompt_versioning",15,1590,true
+TR-012,Data Engineering avec Apache Spark,data_engineering,advanced,40,blended,"spark,pyspark,delta_lake,databricks_basics",15,1490,true
+TR-013,Visualisation et Storytelling Data,data_viz,intermediate,16,online,"tableau,powerbi,dataviz_best_practices,narrative_data",30,690,true
+TR-014,Statistiques pour la Data Science,ml,beginner,20,online,"statistics_basics,probability,hypothesis_testing,distributions",30,490,true
+TR-015,Feature Engineering et Sélection,ml,intermediate,16,online,"feature_engineering,selection_methods,pipeline_sklearn",25,690,true
+TR-016,NLP — Traitement du Langage Naturel,ml,intermediate,24,blended,"nlp_basics,spacy,huggingface,text_classification,ner",20,990,true
+TR-017,Sécurité et Gouvernance des Données,governance,intermediate,16,online,"data_governance,rgpd_tech,data_catalog,lineage",30,790,true
+TR-018,Airflow et Orchestration de Pipelines,data_engineering,intermediate,16,online,"airflow,dag_design,pipeline_monitoring,operators",25,790,true
+TR-019,Fondamentaux DevOps pour Data,mlops,beginner,16,online,"git_advanced,docker,ci_cd_basics,bash_scripting",30,590,true
+TR-020,Projet fil rouge — Architecte Data,data_engineering,advanced,40,blended,"architecture_data,design_patterns,trade_offs,documentation",10,2490,true
