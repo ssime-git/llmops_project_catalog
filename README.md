@@ -63,8 +63,8 @@ Exemples de capacités à construire :
 
 Références utiles :
 
-- [SUPPORT_PRODUIT/cahier_des_charges.md](/Users/seb/Documents/projets_llmops_opensource/SUPPORT_PRODUIT/cahier_des_charges.md)
-- [SUPPORT_PRODUIT/GUIDE_SOUTENANCE.md](/Users/seb/Documents/projets_llmops_opensource/SUPPORT_PRODUIT/GUIDE_SOUTENANCE.md)
+- [SUPPORT_PRODUIT/cahier_des_charges.md](SUPPORT_PRODUIT/cahier_des_charges.md)
+- [SUPPORT_PRODUIT/GUIDE_SOUTENANCE.md](SUPPORT_PRODUIT/GUIDE_SOUTENANCE.md)
 
 ### 2. Conformité Réglementaire
 
@@ -79,8 +79,8 @@ Exemples de capacités à construire :
 
 Références utiles :
 
-- [CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md](/Users/seb/Documents/projets_llmops_opensource/CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md)
-- [CONFORMITE_REGLEMENTAIRE/GUIDE_SOUTENANCE.md](/Users/seb/Documents/projets_llmops_opensource/CONFORMITE_REGLEMENTAIRE/GUIDE_SOUTENANCE.md)
+- [CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md](CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md)
+- [CONFORMITE_REGLEMENTAIRE/GUIDE_SOUTENANCE.md](CONFORMITE_REGLEMENTAIRE/GUIDE_SOUTENANCE.md)
 
 ### 3. Parcours Apprenant
 
@@ -96,8 +96,8 @@ Exemples de capacités à construire :
 
 Références utiles :
 
-- [PARCOURS_APPRENANT/cahier_des_charges.md](/Users/seb/Documents/projets_llmops_opensource/PARCOURS_APPRENANT/cahier_des_charges.md)
-- [PARCOURS_APPRENANT/GUIDE_SOUTENANCE.md](/Users/seb/Documents/projets_llmops_opensource/PARCOURS_APPRENANT/GUIDE_SOUTENANCE.md)
+- [PARCOURS_APPRENANT/cahier_des_charges.md](PARCOURS_APPRENANT/cahier_des_charges.md)
+- [PARCOURS_APPRENANT/GUIDE_SOUTENANCE.md](PARCOURS_APPRENANT/GUIDE_SOUTENANCE.md)
 
 ## Cadre technique commun
 
@@ -259,6 +259,6 @@ Le dépôt ne fournit pas :
 
 ## Références internes
 
-- [SUPPORT_PRODUIT/cahier_des_charges.md](/Users/seb/Documents/projets_llmops_opensource/SUPPORT_PRODUIT/cahier_des_charges.md)
-- [CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md](/Users/seb/Documents/projets_llmops_opensource/CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md)
-- [PARCOURS_APPRENANT/cahier_des_charges.md](/Users/seb/Documents/projets_llmops_opensource/PARCOURS_APPRENANT/cahier_des_charges.md)
+- [SUPPORT_PRODUIT/cahier_des_charges.md](SUPPORT_PRODUIT/cahier_des_charges.md)
+- [CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md](CONFORMITE_REGLEMENTAIRE/cahier_des_charges.md)
+- [PARCOURS_APPRENANT/cahier_des_charges.md](PARCOURS_APPRENANT/cahier_des_charges.md)

@@ -29,7 +29,7 @@ plus efficacement. Capacités utiles envisageables (non exhaustif) :
 
 ## Contraintes techniques
 
-- Stack 100% open source (voir [README.md](/Users/seb/Documents/projets_llmops_opensource/README.md))
+- Stack 100% open source (voir [README.md](../README.md))
 - Déployable via Docker Compose
 - Suivi d'expérimentation obligatoire (MLflow)
 - Pipeline d'évaluation automatisé sur eval_cases.csv
